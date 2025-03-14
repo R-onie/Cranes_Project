@@ -8,7 +8,7 @@ How to Run the Console app?
 
 --> save these 3 file in one folder 
 
---> then run the lms.cpp using c++ editor or
+--> then run the lms.cpp using c++ version 17 or above editor or
 
 --> You can directly use the lms.exe file to run and that's it, you're good to go.
 
